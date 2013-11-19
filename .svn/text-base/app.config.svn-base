@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Ayah.WebServiceIntegrationLibrary.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+            <section name="AYAHIframeIntegrationLibrary.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <applicationSettings>
+        <Ayah.WebServiceIntegrationLibrary.Properties.Settings>
+            <setting name="AyahPublisherKey" serializeAs="String">
+                <value>b2fd1a64fac87e095094dbbbefe53629</value>
+            </setting>
+            <setting name="AyahScoringKey" serializeAs="String">
+                <value>774d5b99345c778a51d7bda338999bb3322b4ff9</value>
+            </setting>
+            <setting name="AyahWebServiceHost" serializeAs="String">
+                <value>ws1.areyouahuman.com</value>
+            </setting>
+            <setting name="AyahErrorLog" serializeAs="String">
+                <value>AYAHErrors</value>
+            </setting>
+        </Ayah.WebServiceIntegrationLibrary.Properties.Settings>
+        <AYAHIframeIntegrationLibrary.Properties.Settings>
+            <setting name="AyahPublisherKey" serializeAs="String">
+                <value>b2fd1a64fac87e095094dbbbefe53629</value>
+            </setting>
+            <setting name="AyahScoringKey" serializeAs="String">
+                <value>774d5b99345c778a51d7bda338999bb3322b4ff9</value>
+            </setting>
+            <setting name="AyahWebServiceHost" serializeAs="String">
+                <value>ws1.areyouahuman.com</value>
+            </setting>
+            <setting name="AyahErrorLog" serializeAs="String">
+                <value>AYAHErrors</value>
+            </setting>
+        </AYAHIframeIntegrationLibrary.Properties.Settings>
+    </applicationSettings>
+</configuration>

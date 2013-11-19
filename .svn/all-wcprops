@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ayah_integrations/!svn/ver/26/DotNet
+END
+Demo.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ayah_integrations/!svn/ver/26/DotNet/Demo.aspx
+END
+Demo.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ayah_integrations/!svn/ver/26/DotNet/Demo.aspx.designer.cs
+END
+Demo.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ayah_integrations/!svn/ver/26/DotNet/Demo.aspx.cs
+END
+Ayah.WebServiceIntegrationLibrary.dll.zip
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ayah_integrations/!svn/ver/1/DotNet/Ayah.WebServiceIntegrationLibrary.dll.zip
+END
+integration_instructions.docx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ayah_integrations/!svn/ver/1/DotNet/integration_instructions.docx
+END
+Ayah.WebServiceIntegration.zip
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ayah_integrations/!svn/ver/1/DotNet/Ayah.WebServiceIntegration.zip
+END
+WebServiceProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ayah_integrations/!svn/ver/26/DotNet/WebServiceProxy.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ayah_integrations/!svn/ver/26/DotNet/app.config
+END
